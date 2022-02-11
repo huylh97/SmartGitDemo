@@ -1,4 +1,4 @@
 # SmartGitDemo
 hellow word
 
-comment for branch_1 1
+comment for branch_1
